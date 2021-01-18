@@ -1,0 +1,61 @@
+import 'Workout.dart';
+import 'package:tuple/tuple.dart';
+
+class ShouldersWorkout extends Workout {
+  List<Tuple2<String, int>> list = [
+    Tuple2("DB Push Press", 30),
+    Tuple2("DB Push Press", 30),
+    Tuple2("DB Push Press", 30),
+    Tuple2("DB Push Press", 30),
+    Tuple2("DB Push Press", 30),
+    Tuple2("DB Push Press", 30),
+    Tuple2("DB Push Press", 30),
+    Tuple2("DB Push Press", 30),
+    Tuple2("DB High Pull", 30),
+    Tuple2("DB High Pull", 30),
+    Tuple2("DB High Pull", 30),
+    Tuple2("DB High Pull", 30),
+    Tuple2("DB High Pull", 30),
+    Tuple2("DB High Pull", 30),
+    Tuple2("DB Hang Clean and Push Press", 45),
+    Tuple2("DB Hang Clean and Push Press", 45),
+    Tuple2("DB Hang Clean and Push Press", 45),
+    Tuple2("DB Hang Clean and Push Press", 45),
+    Tuple2("DB Hang Clean and Push Press", 45),
+    Tuple2("DB Hang Clean and Push Press", 45),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+    Tuple2("Lateral Raise", 30),
+    Tuple2("Front Raise", 30),
+    Tuple2("Military Press", 30),
+  ];
+
+  ShouldersWorkout() {
+    super.setList(list);
+  }
+}

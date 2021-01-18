@@ -1,1 +1,3 @@
-# dragonfist-fitness
+# dragonfistfitness
+
+A new workout application.
